@@ -1,2 +1,1 @@
-# files
-public docs, files and scripts that might be useful
+Infrastructure stuff like metadata, changelogs
