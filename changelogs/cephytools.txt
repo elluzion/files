@@ -1,2 +1,2 @@
-- Fixed app crashing due to unsupported Build.Version.RELEASE_OR_CODENAME on API levels <30
-- Fixed app crashing when an AOSP-unsupported keybind is initially set
+- Fixed app crashing due to unsupported Build.Version.RELEASE_OR_CODENAME on API levels <30\n
+- Fixed app crashing when an AOSP-unsupported keybind is initially set\n
