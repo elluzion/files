@@ -9,7 +9,7 @@ I am a 16 year old student from west-germany who likes to...
 - tinker around with Android
 - do some graphic design/animations every once in a while
 
-I am also a Part of [Project Fluid](fluidos.me), an AOSP based Android custom ROM for various devices.
+I am also a Part of [Project Fluid](https://fluidos.me), an AOSP based Android custom ROM for various devices.
 
 My current tech:
 ----------------
