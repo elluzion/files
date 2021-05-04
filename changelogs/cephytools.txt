@@ -1,4 +1,2 @@
 - UDH changes: Code clean-up
-- Add a nicer selector sheet animation
-- Add a new view which shows when SU is unavailable
-- General design adjustments
+- Some UI + UX improvements
