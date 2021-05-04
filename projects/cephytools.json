@@ -4,10 +4,10 @@
     "name": "CephyTools",
     "type": "App",
     "summary": "A handy application for your Xiaomi Mi 9 to remap the AI button on the side of the device!",
-    "version": "2.1",
-    "filename": "CephyTools-2.1.apk",
-    "date": "03-02-2021",
+    "version": "2.2",
+    "filename": "CephyTools-2.2.apk",
+    "date": "04-05-2021",
     "sha1sum": "5f0f40c03b9eeb5070635adc02c2d1b332903264",
-    "link": "https://github.com/elluzion/cephytools/releases/download/2.1/CephyTools-2.1.apk"
+    "link": "https://github.com/elluzion/cephytools/releases/download/2.1/CephyTools-2.2.apk"
   }
 ]
