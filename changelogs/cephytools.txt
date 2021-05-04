@@ -1,2 +1,4 @@
-- Fixed app crashing due to unsupported Build.Version.RELEASE_OR_CODENAME on API levels <30
-- Fixed app crashing when an AOSP-unsupported keybind is initially set
+- UDH changes: Code clean-up
+- Add a nicer selector sheet animation
+- Add a new view which shows when SU is unavailable
+- General design adjustments
